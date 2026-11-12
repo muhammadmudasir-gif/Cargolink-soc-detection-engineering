@@ -1,0 +1,12 @@
+Nov 12 04:10:15 cargolink-srv01 sshd[1420]: Accepted publickey for ubuntu from 192.168.1.15 port 54122 ssh2: RSA SHA256:abc123xyz
+Nov 12 04:12:30 cargolink-srv01 sshd[1435]: Failed password for invalid user root from 203.0.113.50 port 49152 ssh2
+Nov 12 04:12:32 cargolink-srv01 sshd[1437]: Failed password for invalid user root from 203.0.113.50 port 49154 ssh2
+Nov 12 04:12:34 cargolink-srv01 sshd[1439]: Failed password for invalid user root from 203.0.113.50 port 49156 ssh2
+Nov 12 04:12:36 cargolink-srv01 sshd[1441]: Failed password for root from 203.0.113.50 port 49158 ssh2
+Nov 12 04:12:38 cargolink-srv01 sshd[1443]: Failed password for admin from 203.0.113.50 port 49160 ssh2
+Nov 12 04:12:40 cargolink-srv01 sshd[1445]: Failed password for admin from 203.0.113.50 port 49162 ssh2
+Nov 12 04:12:42 cargolink-srv01 sshd[1447]: Failed password for invalid user test from 203.0.113.50 port 49164 ssh2
+Nov 12 04:15:00 cargolink-srv01 sshd[1450]: Accepted password for admin from 192.168.1.50 port 54188 ssh2
+Nov 12 04:16:11 cargolink-srv01 sshd[1455]: Failed password for invalid user postgres from 198.51.100.22 port 38210 ssh2
+Nov 12 04:16:13 cargolink-srv01 sshd[1457]: Failed password for invalid user postgres from 198.51.100.22 port 38212 ssh2
+Nov 12 04:20:05 cargolink-srv01 sshd[1460]: Connection closed by authenticating user ubuntu 192.168.1.15 port 54122 [preauth]
